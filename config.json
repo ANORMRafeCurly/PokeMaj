@@ -6,7 +6,7 @@
     {
       "type": "replace",
       "path": "/kubejs",
-      "source_url": "kubejs",
+      "source_url": "kubejs.zip",
       "backup_path": null
     }
   ],
