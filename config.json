@@ -1,0 +1,15 @@
+{
+  "version": "1.0.1",
+  "description": "ddd",
+  "release_date": "2025-04-01T13:51:00.736701",
+  "operations": [
+    {
+      "type": "replace",
+      "path": "Pok\u00e9Moine\\kubejs",
+      "source_url": "https://gofile.io/d/a510f0fe-075b-4d2e-b733-5de59c13404a",
+      "backup_path": null
+    }
+  ],
+  "min_client_version": "1.0.0",
+  "changelog": ""
+}
