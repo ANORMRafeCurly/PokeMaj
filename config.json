@@ -1,15 +1,16 @@
 {
-  "version": "1.0.1",
-  "description": "ddd",
-  "release_date": "2025-04-01T13:51:00.736701",
+  "version": "1.0.3",
+  "description": "Teste",
+  "release_date": "2025-04-01T14:05:09.196962",
   "operations": [
     {
       "type": "replace",
-      "path": "Pok\u00e9Moine\\kubejs",
-      "source_url": "https://gofile.io/d/a510f0fe-075b-4d2e-b733-5de59c13404a",
+      "path": "/kubejs",
+      "source_url": "kubejs",
       "backup_path": null
     }
   ],
-  "min_client_version": "1.0.0",
-  "changelog": ""
+  "changelog": "# **Patch note __Pok\u00e9Moine__ du 20/03/2024** *(Correctif + Ajout + Mise \u00e0 jour)*\n\n## **__ Optimisations et Corrections__ :**\n- **Fix** de plusieurs bugs.  \n- **Optimisation** et **am\u00e9lioration** de l\u2019infrastructure.  \n - **Augmentation de la RAM allou\u00e9e**, passant de `4 Go` \u00e0 `8 Go`.  \n- **Reboot automatique** : mise en place de red\u00e9marrages automatiques du serveur \u00e0 **midi** et **00h** tous les jours.  \n - **Fix** : correction des red\u00e9marrages qui ne s\u2019ex\u00e9cutaient pas correctement et causaient des crashs serveur.  \n\n## **__ Ajouts et Modifications__ :**\n- **Ajout de nouveaux Shops Custom** avec de nouveaux items.  \n- **Retour des fossiles Shiny, L\u00e9gendaires, etc. au shop**.  \n- **Mise \u00e0 jour de la Mini-Map** : correction des ic\u00f4nes des Pok\u00e9mon affich\u00e9s sur la carte.  \n- **Nouveau resource pack** : ajout d\u2019un pack son rempla\u00e7ant les sons des CD par de nouvelles musiques.  \n- **Ajout d\u2019un Bloc \u00c9l\u00e9vateur**.  \n\n## **__ Ajouts de Mods__ :**\n- **Ajout du mod `\"TrashSlot\"`** permettant de supprimer des items de son inventaire.  \n- **Ajout du mod `\"Challenge\"`** permettant de lancer des combats entre joueurs avec des conditions et un choix de starter.  \n- **Ajout d\u2019un mod affichant une Pok\u00e9Ball sur les Pok\u00e9mon d\u00e9j\u00e0 captur\u00e9s**.  \n- **Corrections pour le mod `\"Cobbreeding\"`** : les \u0153ufs sont maintenant ajout\u00e9s au Pok\u00e9dex directement.  \n\n*Et encore d\u2019autres nouveaut\u00e9s tr\u00e8s prochainement\u2026*  \n\n** Une maintenance a eu lieu pour appliquer ces nouveaut\u00e9s. Ces ajouts sont d\u00e9ploy\u00e9s progressivement, et notre objectif est que tout soit disponible d\u2019ici dimanche soir au plus tard.**  \n\n *Par RafeCurly et Ardos qui vous aiment*  \n\n||@everyone||",
+  "gofile_url": "https://gofile.io/d/gRMFMA",
+  "minimum_client_version": null
 }
